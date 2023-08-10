@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshvarsreekanth&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshvarsreekanth" /> </p>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>Java, Web Development</strong></li>
+  <li>🌱 I’m currently learning <strong>Java, Computer Vision</strong></li>
   <li>💬 Ask me about <strong>Java</strong></li>
   <li>📫 How to reach me: <strong>vigneshvars2001@gmail.com</strong></li>
   <li>📄 Know about my experiences: <a href="[https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/](https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/)" style="color: white;">https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/</a></li>
