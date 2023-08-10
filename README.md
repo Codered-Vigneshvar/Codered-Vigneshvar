@@ -14,7 +14,7 @@
   <li>🌱 I’m currently learning <strong>Java, Web Development</strong></li>
   <li>💬 Ask me about <strong>Java</strong></li>
   <li>📫 How to reach me: <strong>vigneshvars2001@gmail.com</strong></li>
-  <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/" style="color: white;">https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/</a></li>
+  <li>📄 Know about my experiences: <a href="[https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/](https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/)" style="color: white;">https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/</a></li>
   <li>⚡ Fun fact: <strong>I can tell you wonderful stories.</strong></li>
 </ul>
 
