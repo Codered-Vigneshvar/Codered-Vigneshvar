@@ -11,11 +11,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshvarsreekanth&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshvarsreekanth" /> </p>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>Java, Computer Vision</strong></li>
-  <li>💬 Ask me about <strong>Java</strong></li>
+  <li>🌱 I’m currently learning <strong>Python & Web Development</strong></li>
+  <li>💬 Ask me about <strong>Python</strong></li>
   <li>📫 How to reach me: <strong>vigneshvars2001@gmail.com</strong></li>
-  <li>📄 Know about my experiences: <a href="[https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/](https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/)" style="color: white;">https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/</a></li>
-  <li>⚡ Fun fact: <strong>I can tell you wonderful stories.</strong></li>
+  <li>📄 Know about my experiences: <a href="[https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/](https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/)" style="color: white;">LINKEDIN</a></li>
+  <li>⚡ Fun fact: <strong>Challenge me for a game of chess. We can talk and I can tell you wonderful stories.</strong></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
