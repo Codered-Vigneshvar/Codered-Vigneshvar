@@ -11,10 +11,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshvarsreekanth&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshvarsreekanth" /> </p>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>Python & Web Development</strong></li>
-  <li>💬 Ask me about <strong>Python</strong></li>
+  <li>🌱 I’m currently learning <strong>C++ & Game Development</strong></li>
+  <li>💬 Ask me about <strong>Technology</strong></li>
   <li>📫 How to reach me: <strong>vigneshvars2001@gmail.com</strong></li>
-  <li>📄 Know about my experiences: <a href="https://codered-vigneshvar.github.io/portfoliosite/index.html" style="color: white;">click here</a></li>
+  <li>📄 Know about my experiences: <a href="[https://codered-vigneshvar.github.io/portfoliosite/index.html](https://codered-vigneshvar.github.io/portfoliosite/)" style="color: white;">click here</a></li>
   <li>⚡ Fun fact: <strong>Challenge me for a game of chess. We can talk and I can tell you wonderful stories.</strong></li>
 </ul>
 
