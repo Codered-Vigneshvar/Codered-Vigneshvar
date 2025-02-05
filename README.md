@@ -1,72 +1,64 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VIGNESHVAR SREEKANTH - Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #0a192f;
-            color: #ccd6f6;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
-        h1, h3 {
-            color: #64ffda;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            margin: 10px 0;
-        }
-        a {
-            color: #64ffda;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-        }
-        .social-icons a {
-            margin: 10px;
-            display: inline-block;
-        }
-        img.profile-img {
-            width: 300px;
-            border-radius: 50%;
-            box-shadow: 0px 0px 15px rgba(100, 255, 218, 0.5);
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hi 👋, I'm VIGNESHVAR SREEKANTH</h1>
-        <h3>A passionate Software Engineer & ML Intern at EY</h3>
-        <img class="profile-img" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
-        
-        <p><img src="https://komarev.com/ghpvc/?username=vigneshvarsreekanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
-        
-        <ul>
-            <li>🌱 I’m proficient with <strong>Python, & Backend Development Using Flask & Postgres</strong></li>
-            <li>💡 Exploring AI/ML</li>
-            <li>💬 Ask me about <strong>Machine Learning, AI, Backend Development</strong></li>
-            <li>📫 How to reach me: <strong>vigneshvars2001@gmail.com</strong></li>
-            <li>📄 Know about my experiences: <a href="https://codered-vigneshvar.github.io/portfoliosite/" target="_blank">Portfolio</a></li>
-            <li>⚡ Fun fact: <strong>Challenge me for a game of chess. Let’s talk and share amazing stories!</strong></li>
-        </ul>
-        
-        <h3>Connect with me:</h3>
-        <div class="social-icons">
-            <a href="https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40">
+<!-- README.md - GitHub Profile -->
+
+<h1 align="center">Hi 👋, I'm VIGNESHVAR SREEKANTH</h1>
+<h3 align="center">A Passionate Software Engineer & ML Intern at EY</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vigneshvarsreekanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Coding">
+</p>
+
+---
+
+### 🛠 Tech Stack & Learning:
+- 🌱 Currently learning **C++, Game Development & Backend Development (Flask & Postgres)**
+- 🤖 Exploring **Machine Learning, AI, Robotics, and Software Engineering**
+- 🔥 Passionate about **AI, Backend Systems, and Game Development**
+
+### 💬 Let's Talk About:
+- **Machine Learning, AI, Backend Development, and Game Development**
+- **Interesting AI-based projects**
+
+### 📫 Reach Me:
+- **Email:** [vigneshvars2001@gmail.com](mailto:vigneshvars2001@gmail.com)
+- **Portfolio:** [Visit Here](https://codered-vigneshvar.github.io/portfoliosite/)
+- **Fun Fact:** Challenge me for a **game of chess**, and let’s talk and share amazing stories!
+
+---
+
+### 🔗 Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40">
+  </a>
+  <a href="https://instagram.com/vigneshvarsreekanth" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40">
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshvarsreekanth&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshvarsreekanth&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshvarsreekanth&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Fun & Extra:
+- 🎮 **Love Playing Games?** I create interactive games using Unity & Unreal Engine!
+- 🎨 **Creative Side:** I enjoy AI-driven content creation & storytelling!
+- 💡 **Next Big Goal:** **Start an AI-driven company** 🚀
+
+---
+
+⭐️ **If you like my work, consider giving a star!** 🌟
+
             </a>
             <a href="https://instagram.com/vigneshvarsreekanth" target="_blank">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40">
