@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack & Learning
 ✅ **Proficient with:** Python, Flask, PostgreSQL, Machine Learning, AI  
-🚀 **Currently exploring:** Python, Machine Learning, Deep Learning  
+🚀 **Currently exploring:** Deep Learning  
 🔥 **Passionate about:** ML, Backend Systems, and Deep Learning
 
 ---
