@@ -46,36 +46,5 @@
 
 ---
 
-## 🧠 AI Mini Game - Play Tic-Tac-Toe with AI!
-<p align="center">
-  🎮 **Try playing Tic-Tac-Toe against a simple AI!**  
-  Click the button below to play a fun AI-powered game. 
-</p>
-
-<p align="center">
-  <a href="https://vigneshvarsreekanth.github.io/tic-tac-toe-ai" target="_blank">
-    <img src="https://img.shields.io/badge/Play_Tic--Tac--Toe_AI-FF5733?style=for-the-badge&logo=game&logoColor=white" alt="Play AI Game">
-  </a>
-</p>
-
----
-
-## 🎨 Fun & Extra
-🎮 **Love Playing Games?** I create interactive games using Unity & Unreal Engine!  
-🧠 **Creative Mind:** I love AI-driven content creation & storytelling!  
-🚀 **Next Big Goal:** Launch an **AI-driven startup**!  
-
----
-
-⭐️ **If you like my work, consider giving a star!** 🌟  
-💬 **Let's connect and build something amazing!** 🚀
-
-## 🎨 Fun & Extra
-🎮 **Love Playing Games?** I create interactive games using Unity & Unreal Engine!  
-🧠 **Creative Mind:** I love AI-driven content creation & storytelling!  
-🚀 **Next Big Goal:** Launch an **AI-driven startup**!  
-
----
-
 ⭐️ **If you like my work, consider giving a star!** 🌟  
 💬 **Let's connect and build something amazing!** 🚀
