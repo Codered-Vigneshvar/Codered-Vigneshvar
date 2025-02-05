@@ -13,35 +13,40 @@
 
 ---
 
-### 🛠 Tech Stack & Learning:
-- 🌱 Currently learning **C++, Game Development & Backend Development (Flask & Postgres)**
-- 🤖 Exploring **Machine Learning, AI, Robotics, and Software Engineering**
-- 🔥 Passionate about **AI, Backend Systems, and Game Development**
-
-### 💬 Let's Talk About:
-- **Machine Learning, AI, Backend Development, and Game Development**
-- **Interesting AI-based projects**
-
-### 📫 Reach Me:
-- **Email:** [vigneshvars2001@gmail.com](mailto:vigneshvars2001@gmail.com)
-- **Portfolio:** [Visit Here](https://codered-vigneshvar.github.io/portfoliosite/)
-- **Fun Fact:** Challenge me for a **game of chess**, and let’s talk and share amazing stories!
+## 🛠 Tech Stack & Learning
+✅ **Proficient with:** Python, Flask, PostgreSQL, Machine Learning, AI  
+🚀 **Currently exploring:** C++, Game Development, Robotics  
+🔥 **Passionate about:** AI, Backend Systems, and Game Development  
 
 ---
 
-### 🔗 Connect with Me:
-<p align="left">
+## 💬 Let's Talk About
+🔹 **Machine Learning & Deep Learning**  
+🔹 **Backend Development & Database Optimization**  
+🔹 **AI-based Projects & Research**  
+
+---
+
+## 📫 Reach Me
+📧 **Email:** [vigneshvars2001@gmail.com](mailto:vigneshvars2001@gmail.com)  
+🌐 **Portfolio:** [Visit Here](https://codered-vigneshvar.github.io/portfoliosite/)  
+♟ **Fun Fact:** Challenge me for a **game of chess** and let's exchange stories!  
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
   <a href="https://www.linkedin.com/in/vigneshvar-sreekanth-07a63416b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/vigneshvarsreekanth" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vigneshvarsreekanth&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshvarsreekanth&theme=radical" alt="GitHub Streak" />
@@ -50,20 +55,12 @@
 
 ---
 
-### 🚀 Fun & Extra:
-- 🎮 **Love Playing Games?** I create interactive games using Unity & Unreal Engine!
-- 🎨 **Creative Side:** I enjoy AI-driven content creation & storytelling!
-- 💡 **Next Big Goal:** **Start an AI-driven company** 🚀
+## 🎨 Fun & Extra
+🎮 **Love Playing Games?** I create interactive games using Unity & Unreal Engine!  
+🧠 **Creative Mind:** I love AI-driven content creation & storytelling!  
+🚀 **Next Big Goal:** Launch an **AI-driven startup**!  
 
 ---
 
-⭐️ **If you like my work, consider giving a star!** 🌟
-
-            </a>
-            <a href="https://instagram.com/vigneshvarsreekanth" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40">
-            </a>
-        </div>
-    </div>
-</body>
-</html>
+⭐️ **If you like my work, consider giving a star!** 🌟  
+💬 **Let's connect and build something amazing!** 🚀
