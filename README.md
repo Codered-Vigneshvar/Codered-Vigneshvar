@@ -29,7 +29,6 @@
 
 ## 📫 Reach Me
 📧 **Email:** [vigneshvars2001@gmail.com](mailto:vigneshvars2001@gmail.com)  
-🌐 **Portfolio:** [Visit Here](https://codered-vigneshvar.github.io/portfoliosite/)  
 ♟ **Fun Fact:** Challenge me for a **game of chess** and let's exchange stories!  
 
 ---
