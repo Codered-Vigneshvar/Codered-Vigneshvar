@@ -1,7 +1,7 @@
 <!-- README.md - GitHub Profile -->
 
 <h1 align="center">Hi 👋, I'm VIGNESHVAR SREEKANTH</h1>
-<h3 align="center">A Passionate Machine Learning Engineer & ML Intern at EY</h3>
+<h3 align="center">A Passionate Machine Learning Engineer Intern at EY</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vigneshvarsreekanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
